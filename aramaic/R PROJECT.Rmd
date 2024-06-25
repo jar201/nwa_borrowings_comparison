@@ -61,7 +61,7 @@ H1 -
 Сделаем выборку из токенов, в которых есть эти слова:
 
 ```{r word_data}
-aramaic_words <- c('šenna', 'ṭūra', 'ʕafra', 'warəṯṯa', 'zahra')
+aramaic_words <- c('šenna', 'ṭūra', 'ʕafra', 'warəṯṯa', 'zahra', 'xawkapṯa')
 arabic_words <- c('ʕarḳūba', 'saṭra', 'ġubōra', 'šomna', 'ramla')
 ```
 

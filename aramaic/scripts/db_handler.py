@@ -98,7 +98,7 @@ with connection:
 tokens = cursor.fetchall()
 data = handler.build(tokens)
 
-# data.to_csv("./project_data.csv")
+data.to_csv("aramaic/project_data.csv")
 
 print()
 
