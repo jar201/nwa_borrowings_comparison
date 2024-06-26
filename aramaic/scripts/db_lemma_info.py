@@ -1,6 +1,8 @@
 from db_handler import data
 import pandas as pd
 
+"""This is a script that prepares a text file of all currently available lemmas for the labelling task"""
+
 unique_lemmas = list(set(data["citation_form"]))
 unique_lemmas.sort()
 

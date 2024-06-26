@@ -1,6 +1,7 @@
 import sqlite3
 import pandas as pd
 
+"""This file uses an SQL query to gather data from aramaic_corpus.db"""
 
 DATA_ROOT = "aramaic/scripts/aramaic_corpus.db"
 
@@ -99,12 +100,5 @@ tokens = cursor.fetchall()
 data = handler.build(tokens)
 
 data.to_csv("aramaic/project_data.csv")
-
-print()
-
-print("Requested words:")
-for n in [handler.find(n) for n in range(0, 3)]:
-    n = n[0]
-    print(n)
 
 

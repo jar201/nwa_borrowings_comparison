@@ -1,4 +1,4 @@
-# Итоговый проект
+# Анализ употребления арабских заимствований в Новозападноарамейском языке
 Автор: Литвинов Ярослав Александрович (МКЛНГ-23)
 
 ## Общее описание проекта
@@ -63,9 +63,11 @@ H1 -
 
 ```{r lemma_load}
 lemma_data <- read.csv("lemma_etymology.csv")
+# Загружаем данные о наших леммах
 ```
 
 ```{r lemma_sort}
+# Из этих данных достаем слова и их этимологию. Делим данные на две таблицы по признаку этимологии слов
 aramaic_table <- lemma_data %>%
   filter(etymology == 1)
 arabic_table <- lemma_data %>%
@@ -73,9 +75,23 @@ arabic_table <- lemma_data %>%
 ```
 
 ```{r word_data}
+# Оставляем из этих табличек только слова
 aramaic_words <- aramaic_table$word
 arabic_words <- arabic_table$word
 ```
+
+Посчитаем слова, которые у нас получились
+
+```{r count}
+print("Всего размечено слов:")
+print(length(aramaic_words)+length(arabic_words))
+print("Из них:")
+print("Арамейских -")
+length(aramaic_words)
+print("Арабских -")
+length(arabic_words)
+```
+Отфильтруем данные и выберем только те наблюдения, которые потребуются нам для наблюдения. Мы вынуждены взять только наблюдения для слов, которые уже были размечены.
 
 ```{r selection}
 aramaic_selected <- aramaic_data %>%
@@ -111,13 +127,23 @@ print(wilcox_test)
 ```
 Исходя из результата теста, то есть, p-value < 5%, мы можем сказать, что наша изначальная нулевая гипотеза вероятно не верна, но судя по другому параметру не можем утверждать этого с полной уверенностью: возможно, слова арабского и арамейского происхождения по-разному используются представителями разных возрастных категорий, но эти различия не столь значительны
 
+```{r plot2}
+aramaic_class %>%
+  ggplot(aes(y=X, x=speaker_age, group=word_class, colour=factor(word_class))) + stat_smooth() + geom_density2d() + geom_point(alpha=0.3) + scale_colour_manual("Word origin", labels=c("Aramaic", "Arabic"), values=cbbPalette) + labs(title="Aramaic/Arabic word density by age", tag="Plot 2") + xlab("Speaker age") + ylab("Total words") + ylim(0, 65000)
+```
 Кроме того, у нас возникла явная ситуация с неравенством классов. Из стобчатой диаграммы (Plot 1) мы можем наблюдать, что арамейских слов (по крайней мере в числе наших размеченных слов) доминирующее количество
 
-```{r plot 2}
-aramaic_class %>%
-  ggplot(aes(y=speaker_age, x=X, group=factor(word_class))) + geom_point(aes(colour=factor(word_class)), size=5) + xlab("Number of words") + ylab("Speaker age") + labs(title="Word origin distribution", tag="Plot2") + scale_colour_manual("Word origin", labels=c("Aramaic", "Arabic"), values=cbbPalette)
-```
+```{r pie}
+aramaic_table_f <- aramaic_class %>%
+  filter(word_class == 1)
+aramaic_count <- length(aramaic_table_f$word_class)
+arabic_table_f <- aramaic_class %>%
+  filter(word_class == 2)
+arabic_count <- length(arabic_table_f$word_class)
 
+pie(c(aramaic_count, arabic_count), labels=c("Aramaic", "Arabic"), main="Fraction or Arabic Words", col=c("#000000", "#E69F00"))
+```
+Вышеуказанные причины создают предпосылки для применения теста Уэлча
 
 ```{r t-test}
 spoken_aramaic <- aramaic_class %>%
@@ -132,3 +158,12 @@ spoken_arabic_age <- spoken_arabic["speaker_age"]
 # Проведем t-test
 t.test(spoken_aramaic_age, spoken_arabic_age, var.equal = FALSE)
 ```
+Тест Уэлча на 95% уверен в том, что различия между возрастом по употреблению слов арамейского и арабского происхождения варьируются в пределах от ~1 до ~2х лет, значит, разница не равна нулю (логично)
+
+Попробуем визуализировать данные другими способами
+
+```{r aramaic-grouped-boxplot}
+aramaic_class %>%
+  ggplot(aes(y=speaker_age, group=word_class, colour=factor(word_class))) + geom_boxplot() + scale_colour_manual("Word origin", labels=c("Aramaic", "Arabic"), values=cbbPalette) + ylab("Speaker age") + labs(title="Aramaic/Arabic usage boxplot", tag="Plot 3")
+```
+Боксплот наглоядно демонстрирует среднее для обоих популяций. Выброс у арабских слов внизу боксплота дает основание полагать, что часть употребляющих арабские слова очень небольшого возраста

@@ -1,6 +1,9 @@
 import re
 import pandas as pd
 
+"""This script reads the labelled text file at the stated directory and provides a CSV file
+with lemma-label observations to use within the R research project"""
+
 def txt_to_digit(txt: str) -> int:
     if txt.isnumeric():
         return int(txt)
