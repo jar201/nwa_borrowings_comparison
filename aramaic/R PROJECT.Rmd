@@ -27,6 +27,7 @@
 
 ```{r Import}
 library(tidyverse)
+library(ggplot2)
 ```
 
 ### Данные
@@ -45,12 +46,12 @@ glimpse(aramaic_data)
 Наша гипотеза заключается в том, чтобы проверить, как меняется словоупотребление в зависимости от возраста говорящих. Мы предполагаем, что старые носители языка консервативны и будут использовать арамейские слова. Более молодые же носители, напротив, могут иметь тенденцию к использованию новых, арабских слов. 
 
 Таким образом, наши гипотезы можно изложить в следующем виде:
-H0 - 
+H0 - Арабские и Арамейские слова с примерно одинаковой частотой употребляются представителями разных возрастных групп
 H1 - 
 
 Чтобы доказать или опровергнуть наше предположение, мы арабские и арамейские слова для сравнения, например:
-- ʕarḳūba (arkuba) - гора, утес
-- šenna (shenna) - гора, зуб
+- ʕarḳūba (arkuba) - гора, утес <арабское>
+- šenna (shenna) - гора, зуб <арамейское>
 
 Иногда у слова более одного синонима и мы будем это учитывать при составлении категорий.
 
@@ -60,9 +61,20 @@ H1 -
 
 Сделаем выборку из токенов, в которых есть эти слова:
 
+```{r lemma_load}
+lemma_data <- read.csv("lemma_etymology.csv")
+```
+
+```{r lemma_sort}
+aramaic_table <- lemma_data %>%
+  filter(etymology == 1)
+arabic_table <- lemma_data %>%
+  filter(etymology == 2)
+```
+
 ```{r word_data}
-aramaic_words <- c('šenna', 'ṭūra', 'ʕafra', 'warəṯṯa', 'zahra', 'xawkapṯa')
-arabic_words <- c('ʕarḳūba', 'saṭra', 'ġubōra', 'šomna', 'ramla')
+aramaic_words <- aramaic_table$word
+arabic_words <- arabic_table$word
 ```
 
 ```{r selection}
@@ -82,6 +94,13 @@ aramaic_class <- aramaic_selected %>%
 ```{r show}
 aramaic_class
 ```
+Проверим, каково примерное распределение возрастов среди людей произносящих слова из корпуса
+```{r plot}
+cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+aramaic_class %>%
+  ggplot(aes(x=speaker_age, group=factor(word_class))) + theme_classic() + geom_histogram(aes(fill=factor(word_class)), alpha=0.8, colour="black") + xlab("Speaker Age") + ylab("Word count") + labs(title="Aramaic / Arabic word usage by speaker age", subtitle=("Aramaic word class 1, Arabic word class 2"), tag="Plot 1") + scale_fill_manual("Word origin", labels=c("Aramaic", "Arabic"), values=cbbPalette)
+```
 
 ### Проверка гипотезы
 В общем и целом осталось только проверить зависимость word_class от speaker_age, для чего воспользуемся T-тестом
@@ -90,7 +109,15 @@ aramaic_class
 wilcox_test <- wilcox.test(speaker_age ~ word_class, data = aramaic_class)
 print(wilcox_test)
 ```
-Исходя из результата теста, то есть, p-value > 5%, мы можем судить о том, что мы не можем отвергнуть нулевую гипотезу: возможно, слова арабского и арамейского происхождения по-разному используются представителями разных возрастных категорий, но эти различия не столь значительны
+Исходя из результата теста, то есть, p-value < 5%, мы можем сказать, что наша изначальная нулевая гипотеза вероятно не верна, но судя по другому параметру не можем утверждать этого с полной уверенностью: возможно, слова арабского и арамейского происхождения по-разному используются представителями разных возрастных категорий, но эти различия не столь значительны
+
+Кроме того, у нас возникла явная ситуация с неравенством классов. Из стобчатой диаграммы (Plot 1) мы можем наблюдать, что арамейских слов (по крайней мере в числе наших размеченных слов) доминирующее количество
+
+```{r plot 2}
+aramaic_class %>%
+  ggplot(aes(y=speaker_age, x=X, group=factor(word_class))) + geom_point(aes(colour=factor(word_class)), size=5) + xlab("Number of words") + ylab("Speaker age") + labs(title="Word origin distribution", tag="Plot2") + scale_colour_manual("Word origin", labels=c("Aramaic", "Arabic"), values=cbbPalette)
+```
+
 
 ```{r t-test}
 spoken_aramaic <- aramaic_class %>%

@@ -1,337 +1,337 @@
-< (i)nkōn > -- 1
-< [NA] > -- 0
-< [interrupted] > -- 0
-< [loanword] > -- 0
-< [proper noun] > -- 0
-< [sic] > -- 0
-< abač > -- 
-< abaḍāy > -- 
-< abaḥ yībuḥ > -- 
-< abrem yabrem > -- 
-< abu > -- 
-< abən yabən > -- 
-< abət yabət > -- 
-< abət/apt yabət > -- 
-< abʕaḏ > -- 
-< abʕeḏ > -- 
-< abʕeḏ yabʕeḏ > -- 
-< abṣeṭ yabṣeṭ > -- 
-< afak yiffuk > -- 
-< afal yifful > -- 
-< afaz yiffuz > -- 
-< afaz yīfuz > -- 
-< afač yīfuč > -- 
-< afaš yīfuš > -- 
-< aff/affi yaff/yaffi > -- 
-< affeḳ yaffeḳ > -- 
-< afhem yafhem > -- 
-< afrež yafrež > -- 
-< afset yafset > -- 
-< afčel yafčel > -- 
-< afət/afti yafət/yafti > -- 
-< afəḓ yafəḓ > -- 
-< afəṭrūṯa > -- 
-< afʕel yafʕel > -- 
-< afḓal > -- 
-< afḳar yafḳar > -- 
-< afṭar yafṭar > -- 
-< ah/āh/eh > -- 
-< ahamm > -- 
-< ahat yihhut > -- 
-< ahaz/ihhaz yihhuz > -- 
-< ahaš yīhuš > -- 
-< ahhel yɁahhel > -- 
-< ahla > -- 
-< ahlek yahlek > -- 
-< ahlōyṯa > -- 
-< ahw/ahwi yahw/yahwi > -- 
-< ahər/ahri yahər/yahri > -- 
-< ahət/ahti yahət/yahti > -- 
-< akket yɁakket > -- 
-< akrah yakrah > -- 
-< akseb yakseb > -- 
-< akīd > -- 
-< akšef yakšef > -- 
-< akəlṯa > -- 
-< akṯar > -- 
-< akṯarīṯa > -- 
-< alaf yilluf > -- 
-< alam yillum > -- 
-< alam yīlum > -- 
-< alač yilluč > -- 
-< alaš yīluš > -- 
-< alaḥ yīluḥ > -- 
-< alaḳ yīluḳ > -- 
-< alhem yalhem > -- 
-< aliʕāzar > -- 
-< alkul > -- 
-< all- > -- 
-< allef yɁallef > -- 
-< allex yallex > -- 
-< almaʕ yalmaʕ > -- 
-< almānya > -- 
-< almās > -- 
-< almōnay > -- 
-< alōma > -- 
-< alūla > -- 
-< aləḳ yaləḳ > -- 
-< aləṭ yaləṭ > -- 
-< alʕan > -- 
-< alṭef yalṭef > -- 
-< amal yīmul > -- 
-< aman yīmun > -- 
-< amar yīmar > -- 
-< amat yimmut > -- 
-< amaṣ yimmuṣ > -- 
-< ameṯ yīmuṯ > -- 
-< amhel yamhel > -- 
+< (i)nkōn > -- 
+< [NA] > -- 
+< [interrupted] > -- 
+< [loanword] > -- 
+< [proper noun] > -- 
+< [sic] > -- 
+< abač > -- 2
+< abaḍāy > -- 2
+< abaḥ yībuḥ > -- 2
+< abrem yabrem > -- 2
+< abu > -- 2
+< abən yabən > -- 2
+< abət yabət > -- 2
+< abət/apt yabət > -- 2
+< abʕaḏ > -- 1
+< abʕeḏ > -- 1
+< abʕeḏ yabʕeḏ > -- 1
+< abṣeṭ yabṣeṭ > -- 2
+< afak yiffuk > -- 2
+< afal yifful > -- 2
+< afaz yiffuz > -- 2
+< afaz yīfuz > -- 2
+< afač yīfuč > -- 2
+< afaš yīfuš > -- 1
+< aff/affi yaff/yaffi > -- 0
+< affeḳ yaffeḳ > -- 1
+< afhem yafhem > -- 2
+< afrež yafrež > -- 2
+< afset yafset > -- 2
+< afčel yafčel > -- 2
+< afət/afti yafət/yafti > -- 2
+< afəḓ yafəḓ > -- 2
+< afəṭrūṯa > -- 2
+< afʕel yafʕel > -- 2
+< afḓal > -- 2
+< afḳar yafḳar > -- 1
+< afṭar yafṭar > -- 2
+< ah/āh/eh > -- 0
+< ahamm > -- 2
+< ahat yihhut > -- 2
+< ahaz/ihhaz yihhuz > -- 2
+< ahaš yīhuš > -- 2
+< ahhel yɁahhel > -- 2
+< ahla > -- 2
+< ahlek yahlek > -- 2
+< ahlōyṯa > -- 2
+< ahw/ahwi yahw/yahwi > -- 2
+< ahər/ahri yahər/yahri > -- 2
+< ahət/ahti yahət/yahti > -- 2
+< akket yɁakket > -- 2
+< akrah yakrah > -- 2
+< akseb yakseb > -- 2
+< akīd > -- 2
+< akšef yakšef > -- 2
+< akəlṯa > -- 2
+< akṯar > -- 2
+< akṯarīṯa > -- 2
+< alaf yilluf > -- 2
+< alam yillum > -- 2
+< alam yīlum > -- 2
+< alač yilluč > -- 2
+< alaš yīluš > -- 1
+< alaḥ yīluḥ > -- 2
+< alaḳ yīluḳ > -- 2
+< alhem yalhem > -- 2
+< aliʕāzar > -- 2
+< alkul > -- 2
+< all- > -- 1
+< allef yɁallef > -- 1
+< allex yallex > -- 1
+< almaʕ yalmaʕ > -- 2
+< almānya > -- 2
+< almās > -- 0
+< almōnay > -- 2
+< alōma > -- 2
+< alūla > -- 0
+< aləḳ yaləḳ > -- 2
+< aləṭ yaləṭ > -- 1
+< alʕan > -- 2
+< alṭef yalṭef > -- 2
+< amal yīmul > -- 2
+< aman yīmun > -- 2
+< amar yīmar > -- 1
+< amat yimmut > -- 2
+< amaṣ yimmuṣ > -- 1
+< ameṯ yīmuṯ > -- 1
+< amhel yamhel > -- 2
 < amla > -- 
-< amlek yamlek > -- 
-< amma > -- 
-< ammen yɁammen > -- 
-< amra > -- 
-< amērka > -- 
-< amōna > -- 
-< amōnča > -- 
-< aməṭ/amṭi yaməṭ/yamṭi > -- 
-< amṣeṭ yamṣeṭ > -- 
-< ana > -- 
-< anaḥ > -- 
-< anaṭ yinnuṭ > -- 
-< anfaʕ yanfaʕ > -- 
-< anhar yanhar > -- 
-< anhi yanhi > -- 
-< ani/ana > -- 
-< anik > -- 
-< ann/anni yɁann/yɁanni > -- 
-< antem yantem > -- 
-< anu/ana > -- 
-< anw yanw > -- 
-< anšef yanšef > -- 
-< anžaḥ yanžaḥ > -- 
-< anʕem yanʕem > -- 
-< anʕen yanʕen > -- 
-< anḏar yanḏar > -- 
-< anḳeḏ yanḳeḏ > -- 
-< app(i) yapp(i) > -- 
-< apšer yapšer > -- 
-< arat yirrut > -- 
-< araš yirruš > -- 
-< araž yirruž > -- 
-< araḥ yirruḥ > -- 
-< araḳ yirruḳ > -- 
-< arbaḥ yarbaḥ > -- 
-< argīlča > -- 
-< arhen yarhen > -- 
-< arheṭ  yarheṭ > -- 
-< arheṭ yarheṭ > -- 
-< arkeš yarkeš > -- 
-< armalča > -- 
-< armaġōna > -- 
-< arnaḥ yarnaḥ > -- 
-< arpaʕ > -- 
-< arpaʕčaʕṣar > -- 
-< arw yarw > -- 
-< arxeb yarxeb > -- 
-< arzal > -- 
-< arzeḳ yarzeḳ > -- 
-< arōmay > -- 
-< aršet yaršet > -- 
-< arək yarək > -- 
-< arənba > -- 
-< arəḳ yarəḳ > -- 
-< arəṣ yarəṣ > -- 
-< arʕa > -- 
-< arḥam > -- 
-< arḥel yarḥel > -- 
-< arḥem yarḥem > -- 
-< arḳet yarḳet > -- 
-< asab yissub > -- 
-< asab yīsub > -- 
-< asaf yissuf > -- 
-< asam yissum > -- 
-< asaḥ yīsuḥ > -- 
-< askar yaskar > -- 
-< aslem yaslem > -- 
-< asmaḥ yasmaḥ > -- 
-< asmaḥ/asmeḥ yasmaḥ/yasmeḥ > -- 
-< asnet yasnet > -- 
-< aspeʕ yaspeʕ > -- 
-< asseḳ yasseḳ > -- 
-< asōs/asās/asas > -- 
-< asəʕ/asʕi yasəʕ/yasʕi > -- 
-< asḳaʕ yasḳaʕ > -- 
-< atab/ittab yittub > -- 
-< atal yittul > -- 
-< atar > -- 
-< ataḳ yittuḳ > -- 
-< atrek yatrek > -- 
-< atər/atri yatər/yatri > -- 
-< atəʕ/atʕi yatəʕ/yatʕi > -- 
-< aw > -- 
-< awfaḳ > -- 
-< awheb yawheb > -- 
-< awkaʕ yawkaʕ > -- 
-< awpel yawpel > -- 
-< awpṯa > -- 
-< awrab > -- 
-< awrex yawrex > -- 
-< awwal > -- 
-< awwalnō > -- 
-< awwalča > -- 
-< awġ(i) yawġ > -- 
-< awōna > -- 
-< awəf yawəf > -- 
-< awəʕ yawəʕ > -- 
-< awʕeẓ yawʕeẓ > -- 
-< awḏaʕ yawḏaʕ > -- 
-< awḳef yawḳef > -- 
-< awṣef yawṣef > -- 
-< ax > -- 
-< ax/āx > -- 
-< axal yīxul > -- 
-< axan yīxun > -- 
-< axbeṯ yaxbeṯ > -- 
-< axerča > -- 
-< axfen yaxfen > -- 
-< axmar yaxmar > -- 
-< axsar yaxsar > -- 
-< axtem yaxtem > -- 
-< axxar yɁaxxar > -- 
-< axəf yaxəf > -- 
-< axərnō > -- 
-< axəṭ yaxəṭ > -- 
-< axṭar yaxṭar > -- 
-< aya/ayya > -- 
-< aylef yaylef > -- 
-< aylun/aylul > -- 
-< ayneḳ yayneḳ > -- 
-< ayy > -- 
-< ayya/ayyi/ayyu > -- 
-< ayyub > -- 
-< ayṭeb yayṭeb > -- 
-< ayṯ(i) yayṯ(i) > -- 
-< azal yizzul > -- 
-< azač yizzuč > -- 
-< azaʕ yīzuʕ > -- 
-< azka > -- 
-< azkar yazker > -- 
-< azʕel yazʕel > -- 
-< ačab > -- 
-< ačab yīčub > -- 
-< ačah > -- 
-< ačneḥ yačneḥ > -- 
-< ačōča > -- 
-< ačʕeb yačʕeb > -- 
-< aġar yīġur > -- 
-< aġaṭ yiġġuṭ > -- 
-< aġla > -- 
-< aġleṭ yaġleṭ > -- 
-< aġm(i) yaġm(i) > -- 
-< aġra > -- 
-< aġreḳ yaġreḳ > -- 
-< aġīra > -- 
-< aġīrča > -- 
-< aġəl yaġəl > -- 
-< aġən yaġən > -- 
-< aġəš/aġši yaġəš/yaġši > -- 
-< aġḓeb yaġḓeb > -- 
-< aġṣeb yaġṣeb > -- 
-< ašak yiššuk > -- 
-< ašam yiššum > -- 
-< ašan yiššun > -- 
-< ašbah > -- 
-< ašbaṭ > -- 
-< ašfeḳ yašfeḳ > -- 
-< aškar yaškar > -- 
+< amlek yamlek > -- 2
+< amma > -- 0
+< ammen yɁammen > -- 2
+< amra > -- 2
+< amērka > -- 0
+< amōna > -- 2
+< amōnča > -- 2
+< aməṭ/amṭi yaməṭ/yamṭi > -- 1
+< amṣeṭ yamṣeṭ > -- 1
+< ana > -- 1
+< anaḥ > -- 1
+< anaṭ yinnuṭ > -- 2
+< anfaʕ yanfaʕ > -- 2
+< anhar yanhar > -- 1
+< anhi yanhi > -- 2
+< ani/ana > -- 2
+< anik > -- 1
+< ann/anni yɁann/yɁanni > -- 2
+< antem yantem > -- 2
+< anu/ana > -- 2
+< anw yanw > -- 2
+< anšef yanšef > -- 2
+< anžaḥ yanžaḥ > -- 2
+< anʕem yanʕem > -- 2
+< anʕen yanʕen > -- 2
+< anḏar yanḏar > -- 1
+< anḳeḏ yanḳeḏ > -- 2
+< app(i) yapp(i) > -- 1
+< apšer yapšer > -- 2
+< arat yirrut > -- 2
+< araš yirruš > -- 2
+< araž yirruž > -- 2
+< araḥ yirruḥ > -- 1
+< araḳ yirruḳ > -- 1
+< arbaḥ yarbaḥ > -- 2
+< argīlča > -- 2
+< arhen yarhen > -- 2
+< arheṭ  yarheṭ > -- 1
+< arheṭ yarheṭ > -- 1
+< arkeš yarkeš > -- 1
+< armalča > -- 1
+< armaġōna > -- 0
+< arnaḥ yarnaḥ > -- 1
+< arpaʕ > -- 1
+< arpaʕčaʕṣar > -- 0
+< arw yarw > -- 2
+< arxeb yarxeb > -- 1
+< arzal > -- 2
+< arzeḳ yarzeḳ > -- 2
+< arōmay > -- 2
+< aršet yaršet > -- 2
+< arək yarək > -- 2
+< arənba > -- 1
+< arəḳ yarəḳ > -- 2
+< arəṣ yarəṣ > -- 1
+< arʕa > -- 1
+< arḥam > -- 2
+< arḥel yarḥel > -- 1
+< arḥem yarḥem > -- 2
+< arḳet yarḳet > -- 2
+< asab yissub > -- 2
+< asab yīsub > -- 1
+< asaf yissuf > -- 2
+< asam yissum > -- 1
+< asaḥ yīsuḥ > -- 2
+< askar yaskar > -- 2
+< aslem yaslem > -- 2
+< asmaḥ yasmaḥ > -- 2
+< asmaḥ/asmeḥ yasmaḥ/yasmeḥ > -- 2
+< asnet yasnet > -- 2
+< aspeʕ yaspeʕ > -- 1
+< asseḳ yasseḳ > -- 1
+< asōs/asās/asas > -- 2
+< asəʕ/asʕi yasəʕ/yasʕi > -- 2
+< asḳaʕ yasḳaʕ > -- 0
+< atab/ittab yittub > -- 2
+< atal yittul > -- 2
+< atar > -- 1
+< ataḳ yittuḳ > -- 1
+< atrek yatrek > -- 2
+< atər/atri yatər/yatri > -- 2
+< atəʕ/atʕi yatəʕ/yatʕi > -- 2
+< aw > -- 1
+< awfaḳ > -- 2
+< awheb yawheb > -- 2
+< awkaʕ yawkaʕ > -- 2
+< awpel yawpel > -- 1
+< awpṯa > -- 2
+< awrab > -- 1
+< awrex yawrex > -- 1
+< awwal > -- 2
+< awwalnō > -- 2
+< awwalča > -- 2
+< awġ(i) yawġ > -- 1
+< awōna > -- 2
+< awəf yawəf > -- 1
+< awəʕ yawəʕ > -- 2
+< awʕeẓ yawʕeẓ > -- 2
+< awḏaʕ yawḏaʕ > -- 1
+< awḳef yawḳef > -- 2
+< awṣef yawṣef > -- 2
+< ax > -- 1
+< ax/āx > -- 1
+< axal yīxul > -- 1
+< axan yīxun > -- 2
+< axbeṯ yaxbeṯ > -- 2
+< axerča > -- 2
+< axfen yaxfen > -- 1
+< axmar yaxmar > -- 2
+< axsar yaxsar > -- 2
+< axtem yaxtem > -- 2
+< axxar yɁaxxar > -- 2
+< axəf yaxəf > -- 2
+< axərnō > -- 2
+< axəṭ yaxəṭ > -- 2
+< axṭar yaxṭar > -- 2
+< aya/ayya > -- 2
+< aylef yaylef > -- 1
+< aylun/aylul > -- 1
+< ayneḳ yayneḳ > -- 1
+< ayy > -- 0
+< ayya/ayyi/ayyu > -- 2
+< ayyub > -- 2
+< ayṭeb yayṭeb > -- 1
+< ayṯ(i) yayṯ(i) > -- 1
+< azal yizzul > -- 1
+< azač yizzuč > -- 2
+< azaʕ yīzuʕ > -- 1
+< azka > -- 2
+< azkar yazker > -- 2
+< azʕel yazʕel > -- 2
+< ačab > -- 2
+< ačab yīčub > -- 2
+< ačah > -- 2
+< ačneḥ yačneḥ > -- 1
+< ačōča > -- 2
+< ačʕeb yačʕeb > -- 2
+< aġar yīġur > -- 2
+< aġaṭ yiġġuṭ > -- 2
+< aġla > -- 2
+< aġleṭ yaġleṭ > -- 2
+< aġm(i) yaġm(i) > -- 2
+< aġra > -- 1
+< aġreḳ yaġreḳ > -- 2
+< aġīra > -- 1
+< aġīrča > -- 1
+< aġəl yaġəl > -- 2
+< aġən yaġən > -- 2
+< aġəš/aġši yaġəš/yaġši > -- 2
+< aġḓeb yaġḓeb > -- 2
+< aġṣeb yaġṣeb > -- 2
+< ašak yiššuk > -- 2
+< ašam yiššum > -- 2
+< ašan yiššun > -- 1
+< ašbah > -- 2
+< ašbaṭ > -- 1
+< ašfeḳ yašfeḳ > -- 2
+< aškar yaškar > -- 2
 < ašpah yašpah > -- 
-< ašref yašref > -- 
-< aššar yɁaššar > -- 
-< ašəf yašəf > -- 
-< ašəḳ yašəḳ > -- 
-< ašḥen yašḥen > -- 
-< ašṭar > -- 
-< ažann > -- 
-< ažar yižžur > -- 
-< ažas yižžus > -- 
-< ažax yižžux > -- 
-< ažbar yažbar > -- 
-< ažles yažles > -- 
-< ažmal > -- 
-< ažmaʕ yažmaʕ > -- 
-< ažmet yažmet > -- 
-< ažra > -- 
+< ašref yašref > -- 2
+< aššar yɁaššar > -- 2
+< ašəf yašəf > -- 2
+< ašəḳ yašəḳ > -- 1
+< ašḥen yašḥen > -- 1
+< ašṭar > -- 2
+< ažann > -- 2
+< ažar yižžur > -- 2
+< ažas yižžus > -- 2
+< ažax yižžux > -- 2
+< ažbar yažbar > -- 2
+< ažles yažles > -- 2
+< ažmal > -- 2
+< ažmaʕ yažmaʕ > -- 2
+< ažmet yažmet > -- 2
+< ažra > -- 2
 < ažōt- > -- 
-< ažžar yɁažžar > -- 
-< ažžel yɁažžel > -- 
-< ažəl yažəl > -- 
-< ažər yažər > -- 
-< ažʕel yažʕel > -- 
-< ažʕi/ažəʕ yažʕi/yažəʕ > -- 
-< aʕat yiʕʕut > -- 
-< aʕaz yiʕʕuz > -- 
-< aʕbet yaʕbet > -- 
-< aʕla > -- 
-< aʕlem yaʕlem > -- 
-< aʕlen yaʕlen > -- 
-< aʕleḳ yaʕleḳ > -- 
+< ažžar yɁažžar > -- 2
+< ažžel yɁažžel > -- 2
+< ažəl yažəl > -- 2
+< ažər yažər > -- 2
+< ažʕel yažʕel > -- 2
+< ažʕi/ažəʕ yažʕi/yažəʕ > -- 2
+< aʕat yiʕʕut > -- 2
+< aʕaz yiʕʕuz > -- 2
+< aʕbet yaʕbet > -- 2
+< aʕla > -- 2
+< aʕlem yaʕlem > -- 2
+< aʕlen yaʕlen > -- 2
+< aʕleḳ yaʕleḳ > -- 1
 < aʕtem yaʕtem > -- 
-< aʕzem yaʕzem > -- 
-< aʕžeb yaʕžeb > -- 
-< aʕəf yaʕəf > -- 
-< aʕən yaʕən > -- 
+< aʕzem yaʕzem > -- 2
+< aʕžeb yaʕžeb > -- 2
+< aʕəf yaʕəf > -- 2
+< aʕən yaʕən > -- 2
 < aʕər maʕər > -- 
-< aʕəṣ yaʕəṣ > -- 
-< aḏab yīḏub > -- 
-< aḏaḳ yīḏuḳ > -- 
-< aḏkar yaḏkar > -- 
-< aḏlef yaḏlef > -- 
-< aḏleḳ yaḏleḳ > -- 
-< aḏmex yaḏmex > -- 
-< aḏrex yaḏrex > -- 
-< aḏḏen yɁaḏḏen > -- 
-< aḓab yiḓḓub > -- 
-< aḓann > -- 
-< aḓar yiḓḓur > -- 
-< aḓaʕ yīḓaʕ > -- 
-< aḥal yiḥḥul > -- 
-< aḥal/yiḥḥul > -- 
-< aḥas yiḥḥus > -- 
-< aḥaz yiḥḥuz > -- 
-< aḥaž yiḥḥuž > -- 
-< aḥaṣ yīḥuṣ > -- 
-< aḥfeḓ/aḥfeẓ yaḥfeḓ/yaḥfeẓ > -- 
-< aḥkem yaḥkem > -- 
-< aḥla > -- 
-< aḥlem yaḥlem > -- 
-< aḥmet yaḥmet > -- 
-< aḥn yaḥn > -- 
-< aḥref > -- 
-< aḥref yaḥref > -- 
-< aḥrež yaḥrež > -- 
-< aḥsan > -- 
-< aḥset yaḥset > -- 
-< aḥw yaḥw > -- 
-< aḥšem yaḥšem > -- 
-< aḥək yaḥək > -- 
-< aḥəm yaḥəm > -- 
-< aḥəšmūṯa > -- 
-< aḥḓar yaḥḓar > -- 
-< aḥḥ yaḥḥ > -- 
-< aḥḥaḏ > -- 
-< aḥḥaḏaʕsar > -- 
-< aḥḥeč yaḥḥeč > -- 
-< aḥṣel yaḥṣel > -- 
-< aḳa(m) yīḳu(m) > -- 
-< aḳal > -- 
-< aḳall > -- 
-< aḳat yiḳḳut > -- 
-< aḳaš yiḳḳuš > -- 
-< aḳaṣ yiḳḳuṣ > -- 
-< aḳbel yaḳbel > -- 
-< aḳreb yaḳreb > -- 
-< aḳreṣ yaḳreṣ > -- 
-< aḳreṭ yaḳreṭ > -- 
+< aʕəṣ yaʕəṣ > -- 1
+< aḏab yīḏub > -- 1
+< aḏaḳ yīḏuḳ > -- 2
+< aḏkar yaḏkar > -- 1
+< aḏlef yaḏlef > -- 1
+< aḏleḳ yaḏleḳ > -- 1
+< aḏmex yaḏmex > -- 1
+< aḏrex yaḏrex > -- 1
+< aḏḏen yɁaḏḏen > -- 2
+< aḓab yiḓḓub > -- 2
+< aḓann > -- 2
+< aḓar yiḓḓur > -- 2
+< aḓaʕ yīḓaʕ > -- 2
+< aḥal yiḥḥul > -- 2
+< aḥal/yiḥḥul > -- 2
+< aḥas yiḥḥus > -- 2
+< aḥaz yiḥḥuz > -- 2
+< aḥaž yiḥḥuž > -- 2
+< aḥaṣ yīḥuṣ > -- 1
+< aḥfeḓ/aḥfeẓ yaḥfeḓ/yaḥfeẓ > -- 2
+< aḥkem yaḥkem > -- 1
+< aḥla > -- 2
+< aḥlem yaḥlem > -- 1
+< aḥmet yaḥmet > -- 1
+< aḥn yaḥn > -- 1
+< aḥref > -- 1
+< aḥref yaḥref > -- 1
+< aḥrež yaḥrež > -- 2
+< aḥsan > -- 2
+< aḥset yaḥset > -- 2
+< aḥw yaḥw > -- 1
+< aḥšem yaḥšem > -- 1
+< aḥək yaḥək > -- 2
+< aḥəm yaḥəm > -- 1
+< aḥəšmūṯa > -- 1
+< aḥḓar yaḥḓar > -- 2
+< aḥḥ yaḥḥ > -- 1
+< aḥḥaḏ > -- 1
+< aḥḥaḏaʕsar > -- 1
+< aḥḥeč yaḥḥeč > -- 1
+< aḥṣel yaḥṣel > -- 2
+< aḳa(m) yīḳu(m) > -- 1
+< aḳal > -- 2
+< aḳall > -- 2
+< aḳat yiḳḳut > -- 2
+< aḳaš yiḳḳuš > -- 1
+< aḳaṣ yiḳḳuṣ > -- 1
+< aḳbel yaḳbel > -- 1
+< aḳreb yaḳreb > -- 1
+< aḳreṣ yaḳreṣ > -- 1
+< aḳreṭ yaḳreṭ > -- 1
 < aḳset yaḳset > -- 
 < aḳtar yaḳtar > -- 
 < aḳw yaḳw > -- 
@@ -348,7 +348,7 @@
 < aṣaḥḥ > -- 
 < aṣbaḥ yaṣbaḥ > -- 
 < aṣfen yaṣfen > -- 
-< aṣla > -- 
+< aṣla > -- 2
 < aṣlaḥ yaṣlaḥ > -- 
 < aṣpar yaṣpar > -- 
 < aṣpaḥ > -- 
@@ -372,7 +372,7 @@
 < aṭəġ yaṭəġ > -- 
 < aṭʕem yaṭʕem > -- 
 < aṯoḳča > -- 
-< aṯra > -- 
+< aṯra > -- 2
 < aṯən/aṯni yaṯən/yaṯni > -- 
 < aẓar yīẓur > -- 
 < aẓbeṭ yaẓbeṭ > -- 
@@ -543,35 +543,35 @@
 < dūma > -- 
 < ebra > -- 
 < ebəšṯa > -- 
-< elbar > -- 
-< elhel > -- 
-< ellel > -- 
-< elġol > -- 
-< elʕel > -- 
-< emma > -- 
-< emmat > -- 
-< emʕa > -- 
-< emḥar > -- 
-< erraʕ > -- 
+< elbar > -- 1
+< elhel > -- 1
+< ellel > -- 1
+< elġol > -- 1
+< elʕel > -- 1
+< emma > -- 1
+< emmat > -- 1
+< emʕa > -- 1
+< emḥar > -- 1
+< erraʕ > -- 1
 < etta > -- 
-< ex/ux > -- 
-< exma > -- 
-< exmiḏ/exmil/uxmiḏ/uxmil > -- 
-< ext/exət/exti > -- 
-< ezna > -- 
-< eččṯa > -- 
+< ex/ux > -- 1
+< exma > -- 1
+< exmiḏ/exmil/uxmiḏ/uxmil > -- 1
+< ext/exət/exti > -- 1
+< ezna > -- 2
+< eččṯa > -- 1
 < ešbaʕ > -- 
 < ešma/ušma > -- 
-< ešna > -- 
+< ešna > -- 1
 < eʕṣar > -- 
-< eḏma > -- 
-< eḏna > -- 
-< eḥḏa > -- 
+< eḏma > -- 1
+< eḏna > -- 1
+< eḥḏa > -- 1
 < eṭšaʕ > -- 
 < eṭšaʕʕasər > -- 
 < eṯlaṯ > -- 
 < eṯlaṯʕasər > -- 
-< fa > -- 
+< fa > -- 2
 < fahhem yfahhem > -- 
 < fahman > -- 
 < fakkar yfakkar > -- 
@@ -605,7 +605,7 @@
 < fatteš yfatteš > -- 
 < fawwāz > -- 
 < fawža > -- 
-< fayya > -- 
+< fayya > -- 1
 < fačfeč yfačfeč > -- 
 < faččalyōṯa > -- 
 < fačəlṯa > -- 
@@ -750,7 +750,7 @@
 < ifčer yifčar > -- 
 < ifčham yifčham > -- 
 < ifšaḥ yifšuḥ > -- 
-< ifšīna > -- 
+< ifšīna > -- 2
 < ifəx > -- 
 < ifəčkar yifəčkar > -- 
 < ifəčḓi yifəčḓi > -- 
@@ -782,10 +782,10 @@
 < ilef/(īlaf) yīlaf > -- 
 < ilfef > -- 
 < ilkaz yilkuz > -- 
-< illa > -- 
+< illa > -- 2
 < ilmas yilmus > -- 
-< ilyas > -- 
-< ilyān > -- 
+< ilyas > -- 1
+< ilyān > -- 0
 < ilzam yilzum > -- 
 < ilzaḳ yilzuḳ > -- 
 < ilčhi yilčhi > -- 
@@ -800,15 +800,15 @@
 < imeṯ > -- 
 < imkanyōṯa > -- 
 < imles > -- 
-< imma > -- 
-< immōyṯa > -- 
+< imma > -- 2
+< immōyṯa > -- 1
 < imnaʕ yimnuʕ > -- 
 < imreḳ yimruḳ > -- 
 < imsaḥ yimsuḥ > -- 
 < imzaḥ yimzuḥ > -- 
 < imčḥan yimčḥan > -- 
 < imōma > -- 
-< imōna > -- 
+< imōna > -- 2
 < imōḏ > -- 
 < imšaḥ yimšuḥ > -- 
 < iməl > -- 
@@ -822,14 +822,14 @@
 < imṣeṭ yimṣaṭ > -- 
 < imṯaḥ yimṯuḥ > -- 
 < imẓaṭ yimẓuṭ > -- 
-< in > -- 
+< in > -- 2
 < inbaš yinbuš > -- 
 < infaḏ yinfuḏ > -- 
 < infaḥ yinfuḥ > -- 
 < infaḥ yinfuḥ/yinfaḥ > -- 
 < infeḳ/iffeḳ yiffuḳ/yinfuḳ > -- 
 < infeḳ/iffeḳ yinfuḳ/yiffuḳ > -- 
-< inglīzay > -- 
+< inglīzay > -- 2
 < inhab yinhub > -- 
 < inhaz yinhaz > -- 
 < inhaš yinhuš > -- 
@@ -837,7 +837,7 @@
 < inkas yinkus > -- 
 < inkaš yinkuš > -- 
 < inkeb yinkab > -- 
-< inno/inne/inni > -- 
+< inno/inne/inni > -- 2
 < insak yinsuk > -- 
 < intab yintub > -- 
 < intar yintar > -- 
@@ -859,7 +859,7 @@
 < inšar yinšur > -- 
 < inšaḳ yinšuḳ > -- 
 < inžes > -- 
-< inžīla > -- 
+< inžīla > -- 2
 < inəbram yinəbram > -- 
 < inəbraḏ yinəbraḏ > -- 
 < inəfḳar yinəfḳar > -- 
@@ -996,10 +996,10 @@
 < ixḥal yixḥul > -- 
 < ixṭab yixṭub > -- 
 < ixṯab yixṯub > -- 
-< iyyar > -- 
-< iza > -- 
+< iyyar > -- 1
+< iza > -- 2
 < izban yizbun > -- 
-< izmīla > -- 
+< izmīla > -- 1
 < izruḳ > -- 
 < izək > -- 
 < izʕaḳ yizʕuḳ > -- 
@@ -1013,7 +1013,7 @@
 < ičneḥ yičneḥ > -- 
 < iččfeḳ yiččfeḳ > -- 
 < iččižōha > -- 
-< iččxel yiččxel > -- 
+< iččxel yiččxel > -- 1
 < iččžaʕ yiččžaʕ > -- 
 < iččṣel yiččṣel > -- 
 < ičəčhat yičəčhat > -- 
@@ -1074,14 +1074,14 @@
 < ižtal yižtul > -- 
 < ižčimōʕa > -- 
 < ižčmaʕ yižčmaʕ > -- 
-< ižōra > -- 
+< ižōra > -- 2
 < ižōzča > -- 
 < ižʕar yižʕur > -- 
 < ižḳer > -- 
 < iʕbar yiʕbur > -- 
-< iʕbaḳ yiʕbuḳ > -- 
-< iʕber yiʕbar > -- 
-< iʕdām > -- 
+< iʕbaḳ yiʕbuḳ > -- 2
+< iʕber yiʕbar > -- 1
+< iʕdām > -- 2
 < iʕlak yiʕluk > -- 
 < iʕlōna > -- 
 < iʕrak yiʕruk > -- 
@@ -1090,9 +1090,9 @@
 < iʕwur > -- 
 < iʕzem > -- 
 < iʕčaz yiʕčaz > -- 
-< iʕčbar yiʕčbar > -- 
-< iʕčem yiʕčam > -- 
-< iʕčibōra > -- 
+< iʕčbar yiʕčbar > -- 2
+< iʕčem yiʕčam > -- 2
+< iʕčibōra > -- 2
 < iʕčžab yiʕčžab > -- 
 < iʕōlča > -- 
 < iʕžeḳ > -- 
@@ -1102,7 +1102,7 @@
 < iʕḳuf > -- 
 < iʕṣar yiʕṣur > -- 
 < iʕṭaš yiʕṭuš > -- 
-< iḏa > -- 
+< iḏa > -- 2
 < iḏhan yiḏhun > -- 
 < iḏmex yiḏmux > -- 
 < iḏəʕ yiḏəʕ > -- 
@@ -1328,7 +1328,7 @@
 < lawinno > -- 
 < lawna > -- 
 < lawḥa > -- 
-< laxṯa > -- 
+< laxṯa > -- 1
 < laymūnča > -- 
 < lazzaḳ ylazzaḳ > -- 
 < lazzeḳ ylazzeḳ > -- 
@@ -1436,7 +1436,7 @@
 < marəḳṯa > -- 
 < marḥūma > -- 
 < mass ymass > -- 
-< masōfča > -- 
+< masōfča > -- 2
 < masɁalča > -- 
 < masɁul > -- 
 < masəkṯa > -- 
@@ -1504,9 +1504,9 @@
 < maʕžna > -- 
 < maʕəlfa > -- 
 < maʕəmla > -- 
-< maʕḳul > -- 
+< maʕḳul > -- 2
 < maʕṣarča > -- 
-< maḏenča > -- 
+< maḏenča > -- 2
 < maḏəbḥa > -- 
 < maḓyuf > -- 
 < maḓḓ ymaḓḓ > -- 
@@ -1666,9 +1666,9 @@
 < mčažarča > -- 
 < mēkro > -- 
 < mēseḳ > -- 
-< mēzya > -- 
+< mēzya > -- 1
 < mēḥeč > -- 
-< mēṯya > -- 
+< mēṯya > -- 1
 < mō > -- 
 < mōla > -- 
 < mōn > -- 
@@ -1823,11 +1823,11 @@
 < nḳōla > -- 
 < nḳūṭa > -- 
 < nṣība > -- 
-< ommṯa > -- 
+< ommṯa > -- 1
 < orba > -- 
 < oroppa > -- 
-< orḥa > -- 
-< otombīl > -- 
+< orḥa > -- 1
+< otombīl > -- 0
 < oḳra > -- 
 < palpeš ypalpeš > -- 
 < payṯa > -- 
@@ -1929,7 +1929,7 @@
 < saffar ysaffar > -- 
 < safra > -- 
 < safərṯa > -- 
-< sahla > -- 
+< sahla > -- 2
 < sahsel ysahsel > -- 
 < sahəlṯa > -- 
 < sakkar/sakker ysakkar/ysakker > -- 
@@ -2043,7 +2043,7 @@
 < sčaḳbel yisčaḳbel > -- 
 < sčaṣʕeb yisčaṣʕeb > -- 
 < sčuḏkōra > -- 
-< sčōhal yisčōhel > -- 
+< sčōhal yisčōhel > -- 2
 < sēbeʕ > -- 
 < sīpča > -- 
 < sīrča > -- 
@@ -2139,7 +2139,7 @@
 < tīrča > -- 
 < tīḏ- > -- 
 < tōfaʕ ytōfaʕ > -- 
-< tōm/tōma > -- 
+< tōm/tōma > -- 2
 < tōr > -- 
 < tōr ytōr > -- 
 < tōret ytōret > -- 
@@ -2150,19 +2150,19 @@
 < tūr/tūrč- > -- 
 < tḳīḳča > -- 
 < tḳōḳa > -- 
-< uf(f)/of > -- 
+< uf(f)/of > -- 0
 < ukkil > -- 
 < ukkmil > -- 
 < unṯa > -- 
 < urdon > -- 
-< urṯuḏuksay > -- 
-< ustāz > -- 
-< utēl > -- 
-< ux > -- 
+< urṯuḏuksay > -- 2
+< ustāz > -- 2
+< utēl > -- 0
+< ux > -- 1
 < uxmil > -- 
 < uxxul/uxxil > -- 
 < uṣūl/iṣūl > -- 
-< uṣūlay > -- 
+< uṣūlay > -- 2
 < w > -- 
 < wadīʕ > -- 
 < waffar ywaffar > -- 
@@ -2173,7 +2173,7 @@
 < wal- > -- 
 < wala > -- 
 < wall ywall > -- 
-< walla/waḷḷa > -- 
+< walla/waḷḷa > -- 2
 < walō > -- 
 < warreḳ ywarreḳ > -- 
 < warta > -- 
@@ -2225,14 +2225,14 @@
 < wzīra > -- 
 < wēn > -- 
 < wēš > -- 
-< wīle > -- 
+< wīle > -- 1
 < wōb > -- 
 < wōfeḳ ywōfeḳ > -- 
 < wōx > -- 
 < wōxeḏ ywōxeḏ > -- 
 < wōžah ywōžah > -- 
 < wōžba > -- 
-< wōṯ/wōṯi > -- 
+< wōṯ/wōṯi > -- 1
 < wʕō > -- 
 < wḓōyṯa > -- 
 < wḳīṯa > -- 
@@ -2329,7 +2329,7 @@
 < xēfa > -- 
 < xēmes > -- 
 < xēr > -- 
-< xōla > -- 
+< xōla > -- 1
 < xōlef yxōlef > -- 
 < xōleṣ > -- 
 < xōtma > -- 
@@ -2371,7 +2371,7 @@
 < zahwe > -- 
 < zahītay > -- 
 < zahər > -- 
-< zalle yzelle > -- 
+< zalle yzelle > -- 1
 < zaləmṯa > -- 
 < zamra > -- 
 < zamōna > -- 
@@ -2408,7 +2408,7 @@
 < zibnō > -- 
 < ziḥlawnay > -- 
 < zkawṯa > -- 
-< zkōn > -- 
+< zkōn > -- 2
 < zrīʕča > -- 
 < zuppōna > -- 
 < zuptōyṯa > -- 
@@ -2421,18 +2421,18 @@
 < zōt > -- 
 < zʕōḳa > -- 
 < ábatan > -- 
-< ármanay > -- 
-< ášbahay > -- 
+< ármanay > -- 2
+< ášbahay > -- 2
 < ážnabay > -- 
 < āb > -- 
-< ās > -- 
+< ās > -- 2
 < čamam > -- 
 < čammem yčammem > -- 
 < čammuz > -- 
 < čamōma > -- 
 < čaməzṯa > -- 
 < čappar yčappar > -- 
-< čarīxa > -- 
+< čarīxa > -- 2
 < čawma > -- 
 < čaxča > -- 
 < čažra > -- 
@@ -2556,16 +2556,16 @@
 < čūb > -- 
 < čūl- > -- 
 < čūʕl-/čuʕl- > -- 
-< čūṯ(i) > -- 
+< čūṯ(i) > -- 1
 < čžarraʕ yičžarraʕ > -- 
 < čžōʕča > -- 
-< čɁahhal yičɁahhal > -- 
-< čɁakkat yičɁakkat > -- 
-< čɁallaf yičɁallaf > -- 
-< čɁammal yičɁammal > -- 
-< čɁaxxar yičɁaxxar > -- 
-< čɁuhhōla > -- 
-< čɁōmar yičɁōmar > -- 
+< čɁahhal yičɁahhal > -- 2
+< čɁakkat yičɁakkat > -- 2
+< čɁallaf yičɁallaf > -- 2
+< čɁammal yičɁammal > -- 2
+< čɁaxxar yičɁaxxar > -- 2
+< čɁuhhōla > -- 2
+< čɁōmar yičɁōmar > -- 1
 < čʕall yičʕall > -- 
 < čʕallaḳ yičʕallaḳ > -- 
 < čʕammaḏ yičʕammaḏ > -- 
@@ -2594,8 +2594,8 @@
 < čṣōraʕ yičṣōraʕ > -- 
 < čṭawwaʕ yičṭawwaʕ > -- 
 < čẓōhar yičẓōhar > -- 
-< ē > -- 
-< ētra > -- 
+< ē > -- 2
+< ētra > -- 1
 < ġabrōna > -- 
 < ġabrṯa > -- 
 < ġallōyṯa > -- 
@@ -2670,38 +2670,38 @@
 < ġūrča > -- 
 < ġūṭṯa > -- 
 < ġṭōsa > -- 
-< īf(i) yīf(i) > -- 
-< īle/ūle > -- 
+< īf(i) yīf(i) > -- 1
+< īle/ūle > -- 1
 < īm(i) yīm(i) > -- 
 < īḏa > -- 
-< īṯ > -- 
+< īṯ > -- 1
 < ōb/ōbi > -- 
-< ōbu > -- 
+< ōbu > -- 1
 < ōfel yōfel > -- 
 < ōfez yōfez > -- 
-< ōfṯa > -- 
+< ōfṯa > -- 2
 < ōhem yōhem > -- 
 < ōhen yōhen > -- 
-< ōlef > -- 
+< ōlef > -- 1
 < ōmar yɁōmar > -- 
-< ōmen yɁōmen > -- 
+< ōmen yɁōmen > -- 2
 < ōmeṯ yōmeṯ > -- 
 < ōneḳ yōneḳ > -- 
 < ōneṭ yōneṭ > -- 
-< ōtam > -- 
-< ōtamay > -- 
+< ōtam > -- 2
+< ōtamay > -- 2
 < ōter yōter > -- 
-< ōw yɁōw > -- 
+< ōw yɁōw > -- 2
 < ōx > -- 
 < ōxeb yōxeb > -- 
 < ōxef yōxef > -- 
 < ōxel yōxel > -- 
-< ōxer > -- 
+< ōxer > -- 2
 < ōxeṣ yōxeṣ > -- 
-< ōyṯa > -- 
+< ōyṯa > -- 2
 < ōzet yōzet > -- 
 < ōčem yōčem > -- 
-< ōġa > -- 
+< ōġa > -- 0
 < ōġeb yōġeb > -- 
 < ōġer yōġer > -- 
 < ōšeb yōšeb > -- 
@@ -2724,7 +2724,7 @@
 < ōṣeb yōṣeb > -- 
 < ōṣeḥ yōṣeḥ > -- 
 < ōṭel yōṭel > -- 
-< ōṯ(i) > -- 
+< ōṯ(i) > -- 1
 < šabəkṯa > -- 
 < šaffōṭča > -- 
 < šaffṯa > -- 
@@ -2815,7 +2815,7 @@
 < širwōla > -- 
 < šičwōyṯa > -- 
 < šičč/šičči > -- 
-< šiččōḏ > -- 
+< šiččōḏ > -- 1
 < šiḏōnay > -- 
 < šiḳya > -- 
 < šlīfa > -- 
@@ -2949,19 +2949,19 @@
 < žʕīlča > -- 
 < Ɂalmānya > -- 
 < Ɂaḥḥaḏ > -- 
-< Ɂummay > -- 
-< Ɂustrād > -- 
+< Ɂummay > -- 2
+< Ɂustrād > -- 0
 < ʕa ṣummeč > -- 
 < ʕa/ʕal > -- 
-< ʕabdo > -- 
-< ʕabərṯa > -- 
-< ʕafra > -- 
-< ʕafye > -- 
-< ʕafīṯa > -- 
-< ʕahta > -- 
+< ʕabdo > -- 2
+< ʕabərṯa > -- 1
+< ʕafra > -- 1
+< ʕafye > -- 2
+< ʕafīṯa > -- 2
+< ʕahta > -- 2
 < ʕakkez yʕakkez > -- 
-< ʕakkōra > -- 
-< ʕakkūša > -- 
+< ʕakkōra > -- 1
+< ʕakkūša > -- 1
 < ʕala bina > -- 
 < ʕali > -- 
 < ʕall yʕall > -- 
@@ -2991,8 +2991,8 @@
 < ʕanṣarča > -- 
 < ʕanṭaẓ/ʕanṭeẓ yʕanṭaẓ/yʕanṭeẓ > -- 
 < ʕapp yʕapp > -- 
-< ʕappar yʕappar > -- 
-< ʕapta > -- 
+< ʕappar yʕappar > -- 1
+< ʕapta > -- 2
 < ʕarabōyṯa > -- 
 < ʕaraḳ > -- 
 < ʕarbaš yʕarbaš > -- 
@@ -3032,8 +3032,8 @@
 < ʕazzel yʕazzel > -- 
 < ʕazzōbay > -- 
 < ʕazīz > -- 
-< ʕaččeḳ > -- 
-< ʕačəpṯa > -- 
+< ʕaččeḳ > -- 1
+< ʕačəpṯa > -- 2
 < ʕašwaš yʕašwaš > -- 
 < ʕaššeb yʕaššeb > -- 
 < ʕaššeš yʕaššeš > -- 
@@ -3044,13 +3044,13 @@
 < ʕažžōnča > -- 
 < ʕažəlṯa > -- 
 < ʕažəḳṯa > -- 
-< ʕaḏḏab yʕaḏḏab > -- 
-< ʕaḏḏeb yʕaḏḏeb > -- 
-< ʕaḳla > -- 
+< ʕaḏḏab yʕaḏḏab > -- 2
+< ʕaḏḏeb yʕaḏḏeb > -- 2
+< ʕaḳla > -- 2
 < ʕaḳta > -- 
 < ʕaḳīta > -- 
-< ʕaḳōna > -- 
-< ʕaḳərba > -- 
+< ʕaḳōna > -- 1
+< ʕaḳərba > -- 1
 < ʕaṣba > -- 
 < ʕaṣra > -- 
 < ʕaṣər > -- 
@@ -3058,7 +3058,7 @@
 < ʕaṭalla > -- 
 < ʕaṭṭel > -- 
 < ʕaẓẓar yʕaẓẓar > -- 
-< ʕbōyṯa > -- 
+< ʕbōyṯa > -- 1
 < ʕelma > -- 
 < ʕemm- > -- 
 < ʕenəpṯa > -- 
@@ -3088,7 +3088,7 @@
 < ʕorəʕra > -- 
 < ʕottṯa/ʕoṯṯa > -- 
 < ʕowwet yʕowwet > -- 
-< ʕočma > -- 
+< ʕočma > -- 2
 < ʕošba > -- 
 < ʕošša > -- 
 < ʕošəpṯa > -- 
@@ -3099,8 +3099,8 @@
 < ʕrōḓča/ʕarōḓča > -- 
 < ʕrūfča > -- 
 < ʕtuwwa > -- 
-< ʕubya > -- 
-< ʕukkōzča > -- 
+< ʕubya > -- 1
+< ʕukkōzča > -- 2
 < ʕumar > -- 
 < ʕummōra > -- 
 < ʕunnīṯa/ʕunīṯa > -- 
@@ -3108,7 +3108,7 @@
 < ʕurnīṯa > -- 
 < ʕurpōla > -- 
 < ʕurrōbay > -- 
-< ʕuḏōba > -- 
+< ʕuḏōba > -- 2
 < ʕuḳūpča > -- 
 < ʕwaynōt > -- 
 < ʕwurya > -- 
@@ -3127,7 +3127,7 @@
 < ʕīla > -- 
 < ʕīlča > -- 
 < ʕīšča > -- 
-< ʕōhet yʕōhet > -- 
+< ʕōhet yʕōhet > -- 2
 < ʕōkar yʕōkar > -- 
 < ʕōlma > -- 
 < ʕōmla > -- 
@@ -3137,8 +3137,8 @@
 < ʕōyeḏ yʕōyeḏ > -- 
 < ʕōžez > -- 
 < ʕōžza > -- 
-< ʕōḳeb yʕōḳeb > -- 
-< ʕōḳel > -- 
+< ʕōḳeb yʕōḳeb > -- 2
+< ʕōḳel > -- 2
 < ʕōṯṯa/ʕōtṯa > -- 
 < ʕōẓar > -- 
 < ʕžēža > -- 
@@ -3363,8 +3363,8 @@
 < ḥōna > -- 
 < ḥōrsa > -- 
 < ḥōwel yḥōwel > -- 
-< ḥōḏ > -- 
-< ḥōḏyan > -- 
+< ḥōḏ > -- 1
+< ḥōḏyan > -- 1
 < ḥōḓar > -- 
 < ḥōṣar yḥōṣar > -- 
 < ḥōṣel/ḥāṣel > -- 
@@ -3760,7 +3760,7 @@
 < ṯēn/ṯēni > -- 
 < ṯēnča > -- 
 < ṯēčča > -- 
-< ṯōle yṯēle > -- 
+< ṯōle yṯēle > -- 1
 < ṯūṯa > -- 
 < ẓabərṯa > -- 
 < ẓaffer > -- 
@@ -3777,4 +3777,4 @@
 < ẓrōʕa > -- 
 < ẓulṭa/ẓelṭa > -- 
 < ẓunnarōyṯa > -- 
-< ẓunnōra > -- 
+< ẓunnōra > --
